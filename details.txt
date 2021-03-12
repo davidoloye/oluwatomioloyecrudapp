@@ -1,0 +1,7 @@
+OLOYE OLUWATOMI CRUD APPLICATION DESIGN
+
+DATABASE NAME: companydata
+
+TABLENAME:workers
+
+COMPONENT FILES:create.php,delete.php ,error.php,index.php,read.php,update.php,dbh.php
